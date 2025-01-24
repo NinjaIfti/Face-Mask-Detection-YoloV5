@@ -24,3 +24,7 @@ A deep learning-based solution for detecting face masks in images and live video
    ```bash
    git clone https://github.com/yourusername/face-mask-detection.git
    cd face-mask-detection
+
+python -m venv yolov5-env
+source yolov5-env/bin/activate   # Linux/macOS
+yolov5-env\Scripts\activate     # Windows
