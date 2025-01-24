@@ -1,4 +1,4 @@
-Face Mask Detection using PyTorch
+<h2>Write the content to a README.md file</h2>
 This project implements a Face Mask Detection system using PyTorch. It can detect whether a person is wearing a mask or not from images, videos, or live webcam feeds. The model is trained on a custom dataset and uses a convolutional neural network (CNN) for classification.
 
 Features
