@@ -1,0 +1,7 @@
+train: /content/images/train
+val: /content/images/valid
+test: /content/images/test
+
+nc: 2
+
+names: ['mask','no_mask']
