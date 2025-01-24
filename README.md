@@ -34,7 +34,7 @@
 
  - [ ] Clone the Repository
 
-        git clone https://github.com/yourusername/face-mask-detection.git
+        git clone https://github.com/NinjaIfti/Face-Mask-Detection-YoloV5.git
        cd face-mask-detection
 
 **Set up a Virtual Environment (Optional but Recommended) A virtual    environment helps isolate project dependencies, making it easier    to manage and avoid conflicts with other Python projects on your    system.**
