@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Face Mask Detection Using PyTorch</title>
-</head>
-<body>
+
+
     <h1>Face Mask Detection Using PyTorch</h1>
     <p>
         This repository contains a face mask detection system implemented using PyTorch. 
@@ -88,5 +82,5 @@
         <li><a href="https://github.com/ultralytics/yolov5">YOLOv5</a></li>
         <li><a href="https://github.com/biubug6/Pytorch_Retinaface">RetinaFace</a></li>
     </ul>
-</body>
-</html>
+
+
